@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Linkeldn Profile](https://www.linkedin.com/in/megha16garg/) ,[InstagramProfile](https://bit.ly/3eD8cjS)
 - ⚡ Fun fact: I spend almost 7-8 hours in discovering facts
 
-<img src=https://github-readme-stats.vercel.app/api?username=miss-jain-16&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+![Stats added](https://github-readme-stats.vercel.app/api?username=miss-jain-16&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
