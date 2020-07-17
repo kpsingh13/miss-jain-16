@@ -1,7 +1,7 @@
 ### Hlo!!Megha Garg here!!! 👋
 
 
-
+Some People call it ***ARTIFICIAL INTELLIEGENCE*** BUT THE REALITY IS,**this technology** will ***enhance*** us. So, instead of Artificial Intelligence  I think we will Augment **OUR** ***INTELLIGENCE***
 
 Here are some ideas to get you started:
 
@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I spend almost 7-8 hours in discovering facts
 
 ![Stats added](https://github-readme-stats.vercel.app/api?username=miss-jain-16&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
