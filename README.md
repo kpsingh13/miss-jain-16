@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hlo!!Megha Garg here!!! 👋
 
-<!--
-**miss-jain-16/miss-jain-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Machine Learning field
+- 🌱 I’m currently learning Golang
+- 👯 I’m looking to collaborate on YouTube
+- 💬 Ask me about Macine learning or techincal related stuff
+- 📫 How to reach me: [Linkeldn Profile](https://www.linkedin.com/in/megha16garg/) ,[InstagramProfile](https://bit.ly/3eD8cjS)
+- ⚡ Fun fact: I spend almost 7-8 hours in discovering facts
+
