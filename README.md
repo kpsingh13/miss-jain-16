@@ -2,6 +2,7 @@
 
 
 Some People call it ***ARTIFICIAL INTELLIEGENCE*** BUT THE REALITY IS,**this technology** will ***enhance*** us. So, instead of Artificial Intelligence  I think we will Augment **OUR** ***INTELLIGENCE***
+**CHECK OUT MY PORTFOLIO**([https://miss-jain-16.github.io/Portfolio/](https://miss-jain-16.github.io/Portfolio/))
 
 Here are some ideas to get you started:
 
